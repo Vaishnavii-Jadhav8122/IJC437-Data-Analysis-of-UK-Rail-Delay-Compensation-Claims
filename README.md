@@ -17,7 +17,7 @@ This project analyses delay compensation data from the UK rail network to explor
 ## R Code
 The full R script used for data preprocessing, exploratory analysis, statistical testing, and modelling is available here:
 
-- [`analysis.R`](analysis.R)
+- [`code/analysis.R`](analysis.R)
 
 ## Dataset
 The dataset used in this analysis is publicly available from the UK Office of Rail and Road and has been preprocessed for analysis:
