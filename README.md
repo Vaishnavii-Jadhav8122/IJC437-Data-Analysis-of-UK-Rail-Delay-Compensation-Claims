@@ -31,3 +31,4 @@ The dataset used in this analysis is publicly available from the UK Office of Ra
 4. Install required packages (if not already installed):
    ```r
    install.packages(c("tidyverse", "readxl", "ggplot2"))
+5. source("analysis.R")
